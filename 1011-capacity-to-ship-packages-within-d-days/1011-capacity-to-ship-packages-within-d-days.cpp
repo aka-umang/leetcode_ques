@@ -11,7 +11,6 @@ public:
             if(sum>mid){
                 count++;
                 sum=weights[i];
-                if(sum>mid) return false;
             }
         }
         count++;
