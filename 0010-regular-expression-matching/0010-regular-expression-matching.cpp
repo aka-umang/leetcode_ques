@@ -4,7 +4,7 @@ public:
         int n=s.size();
         int m=p.size();
         if(i>=n && j>=m) return true;
-    
+        if(j>=m) return false;
         if(p[j]=='.'){
             if(j+1<m && p[j+1]=='*'){
                 if(solve(s,p,i,j+1)) return true;
@@ -12,7 +12,8 @@ public:
             else if(i<n){
                 if(solve(s,p,i+1,j+1)) return true;
             }
-        }  
+        }
+
         else if(p[j]=='*'){
 
             //not take
