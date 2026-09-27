@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/aka-umang/leetcode_ques/tree/master/0004-median-of-two-sorted-arrays) |
 | [0049-group-anagrams](https://github.com/aka-umang/leetcode_ques/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/aka-umang/leetcode_ques/tree/master/0053-maximum-subarray) |
 | [0303-range-sum-query-immutable](https://github.com/aka-umang/leetcode_ques/tree/master/0303-range-sum-query-immutable) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/aka-umang/leetcode_ques/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/aka-umang/leetcode_ques/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/aka-umang/leetcode_ques/tree/master/0004-median-of-two-sorted-arrays) |
+| [0053-maximum-subarray](https://github.com/aka-umang/leetcode_ques/tree/master/0053-maximum-subarray) |
 ## String
 |  |
 | ------- |
@@ -33,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/aka-umang/leetcode_ques/tree/master/0010-regular-expression-matching) |
+| [0053-maximum-subarray](https://github.com/aka-umang/leetcode_ques/tree/master/0053-maximum-subarray) |
 ## Recursion
 |  |
 | ------- |
