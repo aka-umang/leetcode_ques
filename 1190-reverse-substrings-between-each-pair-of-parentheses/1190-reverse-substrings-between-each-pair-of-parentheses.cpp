@@ -1,8 +1,5 @@
 class Solution {
 public:
-    void pushInStack(stack<char>&st ,string& str){
-        for(char& ele:str) st.push(ele);
-    }
 
     string reverseParentheses(string s) {
         int n=s.size();
@@ -21,11 +18,10 @@ public:
                 while(!st.empty()){
                     char ch=st.top();   st.pop();
                     if(ch=='(') break;
-                    string t=""; t+=ch; //Convert Char to String
-                    str+=t;
+                    str.push_back(ch); //Convert Char to String
                 }
                 if(st.empty()) ans+=str;
-                else pushInStack(st,str);
+                else  {for(char& ele:str) st.push(ele);}
             }
             i++;
         }
