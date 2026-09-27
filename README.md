@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/aka-umang/leetcode_ques/tree/master/0010-regular-expression-matching) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/aka-umang/leetcode_ques/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/aka-umang/leetcode_ques/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 ## Dynamic Programming
 |  |
@@ -56,4 +57,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1146-snapshot-array](https://github.com/aka-umang/leetcode_ques/tree/master/1146-snapshot-array) |
+## Stack
+|  |
+| ------- |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/aka-umang/leetcode_ques/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/aka-umang/leetcode_ques/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 <!---LeetCode Topics End-->
