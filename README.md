@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/aka-umang/leetcode_ques/tree/master/0004-median-of-two-sorted-arrays) |
 | [0049-group-anagrams](https://github.com/aka-umang/leetcode_ques/tree/master/0049-group-anagrams) |
+| [0303-range-sum-query-immutable](https://github.com/aka-umang/leetcode_ques/tree/master/0303-range-sum-query-immutable) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/aka-umang/leetcode_ques/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/aka-umang/leetcode_ques/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1146-snapshot-array](https://github.com/aka-umang/leetcode_ques/tree/master/1146-snapshot-array) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/aka-umang/leetcode_ques/tree/master/0303-range-sum-query-immutable) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/aka-umang/leetcode_ques/tree/master/0974-subarray-sums-divisible-by-k) |
 ## Sliding Window
 |  |
@@ -55,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/aka-umang/leetcode_ques/tree/master/0303-range-sum-query-immutable) |
 | [1146-snapshot-array](https://github.com/aka-umang/leetcode_ques/tree/master/1146-snapshot-array) |
 ## Persistent Data Structure
 |  |
