@@ -122,4 +122,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/aka-umang/leetcode_ques/tree/master/0056-merge-intervals) |
+## Tree
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/aka-umang/leetcode_ques/tree/master/0572-subtree-of-another-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/aka-umang/leetcode_ques/tree/master/0572-subtree-of-another-tree) |
+## String Matching
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/aka-umang/leetcode_ques/tree/master/0572-subtree-of-another-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/aka-umang/leetcode_ques/tree/master/0572-subtree-of-another-tree) |
+## Hash Function
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/aka-umang/leetcode_ques/tree/master/0572-subtree-of-another-tree) |
 <!---LeetCode Topics End-->
