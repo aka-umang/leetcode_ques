@@ -1,21 +1,26 @@
 class Solution {
 public:
-    bool isSameTree(TreeNode* r1, TreeNode* r2){
-        if(r1==NULL && r2==NULL) return true;
-        if(r1==NULL || r2==NULL) return false;
-        if(r1->val!=r2->val) return false;
-        bool lft=isSameTree(r1->left,r2->left);
-        bool rit=isSameTree(r1->right,r2->right);
-
-        return lft && rit;
+    string work(TreeNode* root){
+        if(root==NULL) return "#";
+        string lft=work(root->left);
+        string ri8=work(root->right);
+        return to_string(root->val)+"_"+lft+"_"+ri8;
     }
+
+    string find(TreeNode* root,string& target){
+        if(root==NULL) return "#";
+        string lft=find(root->left, target); if(lft=="milgya") return lft;
+        string ri8=find(root->right, target); if(ri8=="milgya") return ri8;
+
+        string curr=to_string(root->val)+"_"+lft+"_"+ri8;
+        if(curr==target) return "milgya";
+        return curr;
+    }
+
     bool isSubtree(TreeNode* root, TreeNode* subRoot) {
-        if(root==NULL) return false;
-        if(root->val==subRoot->val){
-            if(isSameTree(root,subRoot)) return true;
-        }
-        if(isSubtree(root->left,subRoot)) return true;
-        if(isSubtree(root->right,subRoot)) return true;
+        string str_subroot=work(subRoot);
+
+        if(find(root,str_subroot)=="milgya") return true;
         return false;
     }
 };
