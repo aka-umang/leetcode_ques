@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/aka-umang/leetcode_ques/tree/master/0010-regular-expression-matching) |
 | [0053-maximum-subarray](https://github.com/aka-umang/leetcode_ques/tree/master/0053-maximum-subarray) |
 | [0918-maximum-sum-circular-subarray](https://github.com/aka-umang/leetcode_ques/tree/master/0918-maximum-sum-circular-subarray) |
+| [1137-n-th-tribonacci-number](https://github.com/aka-umang/leetcode_ques/tree/master/1137-n-th-tribonacci-number) |
 ## Recursion
 |  |
 | ------- |
@@ -142,4 +143,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/aka-umang/leetcode_ques/tree/master/0572-subtree-of-another-tree) |
+## Math
+|  |
+| ------- |
+| [1137-n-th-tribonacci-number](https://github.com/aka-umang/leetcode_ques/tree/master/1137-n-th-tribonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [1137-n-th-tribonacci-number](https://github.com/aka-umang/leetcode_ques/tree/master/1137-n-th-tribonacci-number) |
 <!---LeetCode Topics End-->
