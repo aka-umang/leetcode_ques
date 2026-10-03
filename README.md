@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/aka-umang/leetcode_ques/tree/master/0383-ransom-note) |
 | [0652-find-duplicate-subtrees](https://github.com/aka-umang/leetcode_ques/tree/master/0652-find-duplicate-subtrees) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/aka-umang/leetcode_ques/tree/master/0974-subarray-sums-divisible-by-k) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/aka-umang/leetcode_ques/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1146-snapshot-array](https://github.com/aka-umang/leetcode_ques/tree/master/1146-snapshot-array) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/aka-umang/leetcode_ques/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/aka-umang/leetcode_ques/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/aka-umang/leetcode_ques/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/aka-umang/leetcode_ques/tree/master/0056-merge-intervals) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/aka-umang/leetcode_ques/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Queue
 |  |
 | ------- |
@@ -135,12 +137,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0404-sum-of-left-leaves](https://github.com/aka-umang/leetcode_ques/tree/master/0404-sum-of-left-leaves) |
 | [0572-subtree-of-another-tree](https://github.com/aka-umang/leetcode_ques/tree/master/0572-subtree-of-another-tree) |
 | [0652-find-duplicate-subtrees](https://github.com/aka-umang/leetcode_ques/tree/master/0652-find-duplicate-subtrees) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/aka-umang/leetcode_ques/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0404-sum-of-left-leaves](https://github.com/aka-umang/leetcode_ques/tree/master/0404-sum-of-left-leaves) |
 | [0572-subtree-of-another-tree](https://github.com/aka-umang/leetcode_ques/tree/master/0572-subtree-of-another-tree) |
 | [0652-find-duplicate-subtrees](https://github.com/aka-umang/leetcode_ques/tree/master/0652-find-duplicate-subtrees) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/aka-umang/leetcode_ques/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## String Matching
 |  |
 | ------- |
@@ -151,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0404-sum-of-left-leaves](https://github.com/aka-umang/leetcode_ques/tree/master/0404-sum-of-left-leaves) |
 | [0572-subtree-of-another-tree](https://github.com/aka-umang/leetcode_ques/tree/master/0572-subtree-of-another-tree) |
 | [0652-find-duplicate-subtrees](https://github.com/aka-umang/leetcode_ques/tree/master/0652-find-duplicate-subtrees) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/aka-umang/leetcode_ques/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Hash Function
 |  |
 | ------- |
@@ -175,4 +180,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0404-sum-of-left-leaves](https://github.com/aka-umang/leetcode_ques/tree/master/0404-sum-of-left-leaves) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/aka-umang/leetcode_ques/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 <!---LeetCode Topics End-->
