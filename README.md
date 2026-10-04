@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/aka-umang/leetcode_ques/tree/master/0049-group-anagrams) |
 | [0290-word-pattern](https://github.com/aka-umang/leetcode_ques/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/aka-umang/leetcode_ques/tree/master/0383-ransom-note) |
+| [0678-valid-parenthesis-string](https://github.com/aka-umang/leetcode_ques/tree/master/0678-valid-parenthesis-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/aka-umang/leetcode_ques/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/aka-umang/leetcode_ques/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/aka-umang/leetcode_ques/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/aka-umang/leetcode_ques/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/aka-umang/leetcode_ques/tree/master/0032-longest-valid-parentheses) |
 | [0053-maximum-subarray](https://github.com/aka-umang/leetcode_ques/tree/master/0053-maximum-subarray) |
+| [0678-valid-parenthesis-string](https://github.com/aka-umang/leetcode_ques/tree/master/0678-valid-parenthesis-string) |
 | [0918-maximum-sum-circular-subarray](https://github.com/aka-umang/leetcode_ques/tree/master/0918-maximum-sum-circular-subarray) |
 | [1137-n-th-tribonacci-number](https://github.com/aka-umang/leetcode_ques/tree/master/1137-n-th-tribonacci-number) |
 ## Recursion
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/aka-umang/leetcode_ques/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/aka-umang/leetcode_ques/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/aka-umang/leetcode_ques/tree/master/0678-valid-parenthesis-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/aka-umang/leetcode_ques/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/aka-umang/leetcode_ques/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/aka-umang/leetcode_ques/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -102,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/aka-umang/leetcode_ques/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/aka-umang/leetcode_ques/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/aka-umang/leetcode_ques/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/aka-umang/leetcode_ques/tree/master/0678-valid-parenthesis-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/aka-umang/leetcode_ques/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/aka-umang/leetcode_ques/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/aka-umang/leetcode_ques/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -185,4 +189,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0404-sum-of-left-leaves](https://github.com/aka-umang/leetcode_ques/tree/master/0404-sum-of-left-leaves) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/aka-umang/leetcode_ques/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+## Greedy
+|  |
+| ------- |
+| [0678-valid-parenthesis-string](https://github.com/aka-umang/leetcode_ques/tree/master/0678-valid-parenthesis-string) |
 <!---LeetCode Topics End-->
