@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/aka-umang/leetcode_ques/tree/master/0004-median-of-two-sorted-arrays) |
 | [0049-group-anagrams](https://github.com/aka-umang/leetcode_ques/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/aka-umang/leetcode_ques/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/aka-umang/leetcode_ques/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/aka-umang/leetcode_ques/tree/master/0056-merge-intervals) |
 | [0213-house-robber-ii](https://github.com/aka-umang/leetcode_ques/tree/master/0213-house-robber-ii) |
 | [0303-range-sum-query-immutable](https://github.com/aka-umang/leetcode_ques/tree/master/0303-range-sum-query-immutable) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/aka-umang/leetcode_ques/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/aka-umang/leetcode_ques/tree/master/0032-longest-valid-parentheses) |
 | [0053-maximum-subarray](https://github.com/aka-umang/leetcode_ques/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/aka-umang/leetcode_ques/tree/master/0055-jump-game) |
 | [0213-house-robber-ii](https://github.com/aka-umang/leetcode_ques/tree/master/0213-house-robber-ii) |
 | [0678-valid-parenthesis-string](https://github.com/aka-umang/leetcode_ques/tree/master/0678-valid-parenthesis-string) |
 | [0918-maximum-sum-circular-subarray](https://github.com/aka-umang/leetcode_ques/tree/master/0918-maximum-sum-circular-subarray) |
@@ -194,5 +196,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/aka-umang/leetcode_ques/tree/master/0055-jump-game) |
 | [0678-valid-parenthesis-string](https://github.com/aka-umang/leetcode_ques/tree/master/0678-valid-parenthesis-string) |
 <!---LeetCode Topics End-->
