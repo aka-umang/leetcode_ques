@@ -1,20 +1,21 @@
 class Solution {
 public:
     int n;
-    int solveRec(vector<int>&dp,vector<int>& nums, int i){
-        if(i==n-1) return 0;
-        if(dp[i]!=-1) return dp[i];
-
-        int minCost=n;
-        for(int j=i+1;j<n && j<=i+nums[i]; j++){
-            minCost=min(minCost,1+solveRec(dp,nums,j));
+    int tabulation(vector<int>& nums){
+        vector<int>dp(n,0);
+        
+        for(int i=n-2;i>=0;i--){
+            int minCost=n;
+            for(int j=i+1;j<n && j<=i+nums[i]; j++){
+                minCost=min(minCost,1+dp[j]);
+            }
+            dp[i]=minCost;
         }
-        return dp[i]=minCost;
+        return dp[0];
     }
 
     int jump(vector<int>& nums) {
         n=nums.size();
-        vector<int>dp(n,-1);
-        return solveRec(dp,nums,0);
+        return tabulation(nums);
     }
 };
