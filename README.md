@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/aka-umang/leetcode_ques/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/aka-umang/leetcode_ques/tree/master/0032-longest-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/aka-umang/leetcode_ques/tree/master/0049-group-anagrams) |
+| [0091-decode-ways](https://github.com/aka-umang/leetcode_ques/tree/master/0091-decode-ways) |
 | [0290-word-pattern](https://github.com/aka-umang/leetcode_ques/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/aka-umang/leetcode_ques/tree/master/0383-ransom-note) |
 | [0678-valid-parenthesis-string](https://github.com/aka-umang/leetcode_ques/tree/master/0678-valid-parenthesis-string) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/aka-umang/leetcode_ques/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/aka-umang/leetcode_ques/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/aka-umang/leetcode_ques/tree/master/0055-jump-game) |
+| [0091-decode-ways](https://github.com/aka-umang/leetcode_ques/tree/master/0091-decode-ways) |
 | [0213-house-robber-ii](https://github.com/aka-umang/leetcode_ques/tree/master/0213-house-robber-ii) |
 | [0678-valid-parenthesis-string](https://github.com/aka-umang/leetcode_ques/tree/master/0678-valid-parenthesis-string) |
 | [0918-maximum-sum-circular-subarray](https://github.com/aka-umang/leetcode_ques/tree/master/0918-maximum-sum-circular-subarray) |
