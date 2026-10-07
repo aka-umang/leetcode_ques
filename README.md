@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/aka-umang/leetcode_ques/tree/master/0049-group-anagrams) |
 | [0091-decode-ways](https://github.com/aka-umang/leetcode_ques/tree/master/0091-decode-ways) |
 | [0290-word-pattern](https://github.com/aka-umang/leetcode_ques/tree/master/0290-word-pattern) |
+| [0301-remove-invalid-parentheses](https://github.com/aka-umang/leetcode_ques/tree/master/0301-remove-invalid-parentheses) |
 | [0383-ransom-note](https://github.com/aka-umang/leetcode_ques/tree/master/0383-ransom-note) |
 | [0639-decode-ways-ii](https://github.com/aka-umang/leetcode_ques/tree/master/0639-decode-ways-ii) |
 | [0678-valid-parenthesis-string](https://github.com/aka-umang/leetcode_ques/tree/master/0678-valid-parenthesis-string) |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/aka-umang/leetcode_ques/tree/master/0022-generate-parentheses) |
+| [0301-remove-invalid-parentheses](https://github.com/aka-umang/leetcode_ques/tree/master/0301-remove-invalid-parentheses) |
 ## Simulation
 |  |
 | ------- |
@@ -203,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0301-remove-invalid-parentheses](https://github.com/aka-umang/leetcode_ques/tree/master/0301-remove-invalid-parentheses) |
 | [0404-sum-of-left-leaves](https://github.com/aka-umang/leetcode_ques/tree/master/0404-sum-of-left-leaves) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/aka-umang/leetcode_ques/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Greedy
