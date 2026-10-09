@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/aka-umang/leetcode_ques/tree/master/0004-median-of-two-sorted-arrays) |
+| [0222-count-complete-tree-nodes](https://github.com/aka-umang/leetcode_ques/tree/master/0222-count-complete-tree-nodes) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/aka-umang/leetcode_ques/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1146-snapshot-array](https://github.com/aka-umang/leetcode_ques/tree/master/1146-snapshot-array) |
 ## Divide and Conquer
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0222-count-complete-tree-nodes](https://github.com/aka-umang/leetcode_ques/tree/master/0222-count-complete-tree-nodes) |
 | [0404-sum-of-left-leaves](https://github.com/aka-umang/leetcode_ques/tree/master/0404-sum-of-left-leaves) |
 | [0572-subtree-of-another-tree](https://github.com/aka-umang/leetcode_ques/tree/master/0572-subtree-of-another-tree) |
 | [0652-find-duplicate-subtrees](https://github.com/aka-umang/leetcode_ques/tree/master/0652-find-duplicate-subtrees) |
@@ -180,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0222-count-complete-tree-nodes](https://github.com/aka-umang/leetcode_ques/tree/master/0222-count-complete-tree-nodes) |
 | [0404-sum-of-left-leaves](https://github.com/aka-umang/leetcode_ques/tree/master/0404-sum-of-left-leaves) |
 | [0572-subtree-of-another-tree](https://github.com/aka-umang/leetcode_ques/tree/master/0572-subtree-of-another-tree) |
 | [0652-find-duplicate-subtrees](https://github.com/aka-umang/leetcode_ques/tree/master/0652-find-duplicate-subtrees) |
@@ -218,4 +221,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/aka-umang/leetcode_ques/tree/master/0055-jump-game) |
 | [0678-valid-parenthesis-string](https://github.com/aka-umang/leetcode_ques/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/aka-umang/leetcode_ques/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0222-count-complete-tree-nodes](https://github.com/aka-umang/leetcode_ques/tree/master/0222-count-complete-tree-nodes) |
 <!---LeetCode Topics End-->
