@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/aka-umang/leetcode_ques/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1146-snapshot-array](https://github.com/aka-umang/leetcode_ques/tree/master/1146-snapshot-array) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/aka-umang/leetcode_ques/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/aka-umang/leetcode_ques/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/aka-umang/leetcode_ques/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Binary Search
 |  |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/aka-umang/leetcode_ques/tree/master/0222-count-complete-tree-nodes) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/aka-umang/leetcode_ques/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1146-snapshot-array](https://github.com/aka-umang/leetcode_ques/tree/master/1146-snapshot-array) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/aka-umang/leetcode_ques/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/aka-umang/leetcode_ques/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/aka-umang/leetcode_ques/tree/master/0056-merge-intervals) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/aka-umang/leetcode_ques/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/aka-umang/leetcode_ques/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Queue
 |  |
 | ------- |
@@ -225,8 +228,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/aka-umang/leetcode_ques/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/aka-umang/leetcode_ques/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/aka-umang/leetcode_ques/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/aka-umang/leetcode_ques/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/aka-umang/leetcode_ques/tree/master/0222-count-complete-tree-nodes) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2333-minimum-sum-of-squared-difference](https://github.com/aka-umang/leetcode_ques/tree/master/2333-minimum-sum-of-squared-difference) |
 <!---LeetCode Topics End-->
