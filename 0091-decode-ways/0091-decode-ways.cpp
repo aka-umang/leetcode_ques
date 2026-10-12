@@ -1,41 +1,24 @@
 class Solution {
 public:
     int n;
-    int solveRec(string &s){
-        int dp_i_plus_1=1; // dp[n]=1;
-        int dp_i_plus_2=1;
-        int dp_i=0;
+    int solve(vector<int>&dp ,string &s, int i) {
+        if(i>=n) return 1;
+        if(s[i]=='0') return dp[i]=0;
+        if(dp[i]!=-1) return dp[i];
 
-        for(int i=n-1;i>=0;i--){
-            int takeAsSingle=0;
-            int takeAsDouble=0;
+        //1->9
+        int count=solve(dp,s,i+1);
 
-            if(s[i]!='0') takeAsSingle+=dp_i_plus_1;
-            else {
-                dp_i=0;
-                dp_i_plus_2=dp_i_plus_1;
-                dp_i_plus_1=0;
-                continue;
-            }
-            
-            if(i+1<n){
-                int ele=(s[i]-'0')*10+(s[i+1]-'0');
-                if(ele>0 && ele<=26){
-                    takeAsDouble+=dp_i_plus_2;
-                }
-            }
-            dp_i=takeAsDouble+takeAsSingle;  
-            
-            dp_i_plus_2=dp_i_plus_1;
-            dp_i_plus_1=dp_i;  
-            
+        //10->19
+        if(i+1<n && (s[i]=='1' || s[i]=='2' && s[i+1]<='6')){
+            count+=solve(dp,s,i+2);
         } 
 
-        return dp_i;
+        return dp[i]=count;
     }
-
     int numDecodings(string s) {
         n=s.size();
-        return solveRec(s);
+        vector<int>dp(n,-1);
+        return solve(dp,s,0);  
     }
 };
