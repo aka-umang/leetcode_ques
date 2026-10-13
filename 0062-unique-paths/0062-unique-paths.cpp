@@ -1,25 +1,25 @@
 class Solution {
-public:
-    
+public:  
     int solve(int M, int N){
-        vector<vector<int>>dp(M+1,vector<int>(N+1,-1));
-        dp[0][0]=1;
-        // if(m<0 || n<0) return 0;
-
+        vector<int>prev(N+1,-1);
+        // dp[0][0]=1;
         //upr->(m-1,n) and left->(m,n-1)
 
         for(int m=0;m<=M;++m){
+            vector<int>curr(N+1,-1);
             for(int n=0;n<=N;++n){
                 if(m==0 && n==0){
+                    curr[0]=1;
                     continue;
                 }
                 int count=0;
-                if(m-1>=0)  count+=dp[m-1][n];
-                if(n-1>=0)  count+=dp[m][n-1];
-                dp[m][n]=count;
+                if(m-1>=0)  count+=prev[n];
+                if(n-1>=0)  count+=curr[n-1];
+                curr[n]=count;
             }
+            swap(prev,curr);
         }
-        return dp[M][N];
+        return prev[N];
     }
 
     int uniquePaths(int m, int n) {
