@@ -3,18 +3,33 @@ public:
     int M,N,K;
     int MOD=1e9+7;
 
-    int solve(vector<vector<vector<int>>> &dp,int m, int n,vector<vector<int>>& grid , int r){
+    int solve(int M, int N,vector<vector<int>>& grid , int r){ 
         
-        r=(r+grid[m][n])%K;
-        if(m==0 && n==0)  {return r==0;}
+        vector<vector<vector<int>>> dp(
+            M+1, vector<vector<int>>(
+            N+1, vector<int>(K, -1)
+        ));
+
+        for(int p=0;p<K;++p){
+            dp[0][0][p]=((p+grid[0][0])%K==0)?1:0;
+        }
         
-        if(dp[m][n][r]!=-1) return dp[m][n][r];
+        for(int m=0;m<=M;++m){
+            for(int n=0;n<=N;++n){
 
-        long long count=0;
-        if(m>0) count=(count+solve(dp,m-1,n,grid,r))%MOD;
-        if(n>0) count=(count+solve(dp,m,n-1,grid,r))%MOD;
+                if(m==0 && n==0) continue; 
+                for(int p=K-1;p>=0;--p){
 
-        return dp[m][n][r]=count;
+                    long long count=0;  //(p+grid[m][n]%K)%MOD
+                    if(m>0) count=(count+dp[m-1][n][(p+grid[m][n])%K])%MOD;
+                    if(n>0) count=(count+dp[m][n-1][(p+grid[m][n])%K])%MOD;
+
+                    dp[m][n][p]=count;
+                }
+
+            }
+        }
+        return dp[M][N][0];
     }
 
     int numberOfPaths(vector<vector<int>>& grid, int k) {
@@ -22,12 +37,6 @@ public:
         N=grid[0].size();
         K=k;
         
-      
-        vector<vector<vector<int>>> dp(
-            M, vector<vector<int>>(
-            N, vector<int>(K, -1)
-        ));
-
-        return solve(dp,M-1,N-1,grid,0);
+        return solve(M-1,N-1,grid,0);
     }
 };
