@@ -22,12 +22,20 @@ public:
                 for(int d=0;d<4;d++){
                     int r=i+dir[d].first;
                     int c=j+dir[d].second;
-                    if(r<0 ||c<0 ||r>=m ||c>=n || visited[r][c][k_] ||(k_==0 && grid[r][c]==1)) continue;
-                    
-                    if(grid[r][c]==1) que.push({r,c,k_-1}); 
-                    else que.push({r,c,k_});
 
-                    visited[r][c][k_]=true;
+                    if(r<0 ||c<0 ||r>=m ||c>=n ||(k_==0 && grid[r][c]==1)) continue;
+                    if(grid[r][c]==1){
+                        if(!visited[r][c][k_-1])  {
+                            que.push({r,c,k_-1});
+                            visited[r][c][k_-1]=true;
+                        }
+                    }
+                    else{
+                        if(!visited[r][c][k_])  {
+                            que.push({r,c,k_});
+                            visited[r][c][k_]=true;
+                        }
+                    }
                 }
             }
             l++;
