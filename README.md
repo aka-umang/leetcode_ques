@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0974-subarray-sums-divisible-by-k](https://github.com/aka-umang/leetcode_ques/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/aka-umang/leetcode_ques/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1146-snapshot-array](https://github.com/aka-umang/leetcode_ques/tree/master/1146-snapshot-array) |
+| [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/aka-umang/leetcode_ques/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/aka-umang/leetcode_ques/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/aka-umang/leetcode_ques/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/aka-umang/leetcode_ques/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -239,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0301-remove-invalid-parentheses](https://github.com/aka-umang/leetcode_ques/tree/master/0301-remove-invalid-parentheses) |
 | [0404-sum-of-left-leaves](https://github.com/aka-umang/leetcode_ques/tree/master/0404-sum-of-left-leaves) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/aka-umang/leetcode_ques/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/aka-umang/leetcode_ques/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 ## Greedy
 |  |
 | ------- |
@@ -278,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0063-unique-paths-ii](https://github.com/aka-umang/leetcode_ques/tree/master/0063-unique-paths-ii) |
+| [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/aka-umang/leetcode_ques/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/aka-umang/leetcode_ques/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 ## Monotonic Stack
 |  |
