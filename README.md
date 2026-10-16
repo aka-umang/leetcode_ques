@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/aka-umang/leetcode_ques/tree/master/0056-merge-intervals) |
 | [0063-unique-paths-ii](https://github.com/aka-umang/leetcode_ques/tree/master/0063-unique-paths-ii) |
 | [0213-house-robber-ii](https://github.com/aka-umang/leetcode_ques/tree/master/0213-house-robber-ii) |
+| [0239-sliding-window-maximum](https://github.com/aka-umang/leetcode_ques/tree/master/0239-sliding-window-maximum) |
 | [0303-range-sum-query-immutable](https://github.com/aka-umang/leetcode_ques/tree/master/0303-range-sum-query-immutable) |
 | [0735-asteroid-collision](https://github.com/aka-umang/leetcode_ques/tree/master/0735-asteroid-collision) |
 | [0918-maximum-sum-circular-subarray](https://github.com/aka-umang/leetcode_ques/tree/master/0918-maximum-sum-circular-subarray) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/aka-umang/leetcode_ques/tree/master/0239-sliding-window-maximum) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/aka-umang/leetcode_ques/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Design
 |  |
@@ -162,10 +164,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/aka-umang/leetcode_ques/tree/master/0239-sliding-window-maximum) |
 | [0918-maximum-sum-circular-subarray](https://github.com/aka-umang/leetcode_ques/tree/master/0918-maximum-sum-circular-subarray) |
 ## Monotonic Queue
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/aka-umang/leetcode_ques/tree/master/0239-sliding-window-maximum) |
 | [0918-maximum-sum-circular-subarray](https://github.com/aka-umang/leetcode_ques/tree/master/0918-maximum-sum-circular-subarray) |
 ## Counting
 |  |
@@ -263,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/aka-umang/leetcode_ques/tree/master/0239-sliding-window-maximum) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/aka-umang/leetcode_ques/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Enumeration
 |  |
@@ -286,4 +291,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/aka-umang/leetcode_ques/tree/master/0402-remove-k-digits) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/aka-umang/leetcode_ques/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
