@@ -45,7 +45,7 @@ public:
 
         vector<int> ans;
         for (int h : health) {
-            if (h > 0) ans.push_back(h);
+            if (h != 0) ans.push_back(h);
         }
 
         return ans;
