@@ -21,7 +21,7 @@ public:
                 continue;
             }
 
-            while (!st.empty() && health[idx] > 0) {
+            while (!st.empty()) {
                 int j = st.top();
 
                 if (health[j] < health[idx]) {
