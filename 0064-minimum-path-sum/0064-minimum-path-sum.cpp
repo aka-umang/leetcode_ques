@@ -3,24 +3,27 @@ public:
     int m,n;
 
     int solve2D(vector<vector<int>>& grid){
-        vector<vector<int>>dp(m+1,vector<int>(n+1,INT_MAX));
-
-        dp[m-1][n-1]=grid[m-1][n-1];
+        vector<int>next(n+1,INT_MAX);
 
         for(int i=m-1;i>=0;i--){
+            vector<int>curr(n+1,INT_MAX);
             for(int j=n-1;j>=0;j--){
-                if(i==m-1 && j==n-1) continue;
+                if(i==m-1 && j==n-1) {
+                    curr[n-1]=grid[m-1][n-1];
+                    continue;
+                }
 
-                int down=dp[i+1][j];
-                int right=dp[i][j+1];
+                int down=next[j];
+                int right=curr[j+1];
 
                 int mini=min(down,right);
                 if(mini!=INT_MAX)  mini+=grid[i][j];
-                dp[i][j]=mini;
+                curr[j]=mini;
             }
+            swap(curr,next);
         }
 
-        return dp[0][0];
+        return next[0];
     }
 
     int minPathSum(vector<vector<int>>& grid) {
