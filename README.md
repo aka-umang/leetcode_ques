@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/aka-umang/leetcode_ques/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/aka-umang/leetcode_ques/tree/master/0032-longest-valid-parentheses) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/aka-umang/leetcode_ques/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0402-remove-k-digits](https://github.com/aka-umang/leetcode_ques/tree/master/0402-remove-k-digits) |
 | [0678-valid-parenthesis-string](https://github.com/aka-umang/leetcode_ques/tree/master/0678-valid-parenthesis-string) |
 | [0735-asteroid-collision](https://github.com/aka-umang/leetcode_ques/tree/master/0735-asteroid-collision) |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/aka-umang/leetcode_ques/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0222-count-complete-tree-nodes](https://github.com/aka-umang/leetcode_ques/tree/master/0222-count-complete-tree-nodes) |
 | [0404-sum-of-left-leaves](https://github.com/aka-umang/leetcode_ques/tree/master/0404-sum-of-left-leaves) |
 | [0572-subtree-of-another-tree](https://github.com/aka-umang/leetcode_ques/tree/master/0572-subtree-of-another-tree) |
@@ -219,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/aka-umang/leetcode_ques/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0404-sum-of-left-leaves](https://github.com/aka-umang/leetcode_ques/tree/master/0404-sum-of-left-leaves) |
 | [0572-subtree-of-another-tree](https://github.com/aka-umang/leetcode_ques/tree/master/0572-subtree-of-another-tree) |
 | [0652-find-duplicate-subtrees](https://github.com/aka-umang/leetcode_ques/tree/master/0652-find-duplicate-subtrees) |
@@ -232,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/aka-umang/leetcode_ques/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0222-count-complete-tree-nodes](https://github.com/aka-umang/leetcode_ques/tree/master/0222-count-complete-tree-nodes) |
 | [0404-sum-of-left-leaves](https://github.com/aka-umang/leetcode_ques/tree/master/0404-sum-of-left-leaves) |
 | [0572-subtree-of-another-tree](https://github.com/aka-umang/leetcode_ques/tree/master/0572-subtree-of-another-tree) |
@@ -346,4 +350,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0968-binary-tree-cameras](https://github.com/aka-umang/leetcode_ques/tree/master/0968-binary-tree-cameras) |
+## Linked List
+|  |
+| ------- |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/aka-umang/leetcode_ques/tree/master/0114-flatten-binary-tree-to-linked-list) |
 <!---LeetCode Topics End-->
