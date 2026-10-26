@@ -1,34 +1,39 @@
 class Solution {
 public:
     int m,n;
-    vector<vector<bool>> visit;
     vector<pair<int,int>> dir={{1,0},{-1,0},{0,1},{0,-1}};
 
-    void dfs(vector<vector<int>>& grid, int i,int j,long long& sum){
-        sum+=grid[i][j];
+    long long bfs(vector<vector<int>>& grid, int si, int sj) {
+        queue<pair<int,int>> que;
 
-        for(int d=0;d<4;d++){
-            int r=i+dir[d].first;
-            int c=j+dir[d].second;
-            if(r<0 || c<0 || r>=m || c>=n || grid[r][c]==0 || visit[r][c]) continue;
-            visit[r][c]=true;
+        long long sum = grid[si][sj];   // count the start cell
+        grid[si][sj] = 0;               // mark visited immediately
+        que.push({si, sj});
 
-            dfs(grid,r,c,sum);
+        while (!que.empty()) {
+            auto [i, j] = que.front();
+            que.pop();
+
+            for (auto [di, dj] : dir) {
+                int r = i + di, c = j + dj;
+                if (r < 0 || c < 0 || r >= m || c >= n || grid[r][c] == 0) continue;
+
+                sum += grid[r][c];     
+                grid[r][c] = 0;         
+                que.push({r, c});
+            }
         }
-    
+        return sum;                     
     }
 
     int countIslands(vector<vector<int>>& grid, int k) {
         int ans=0;
         m=grid.size(); n=grid[0].size();
-        visit.resize(m,vector<bool>(n,false));
 
         for(int i=0;i<m;i++){
             for(int j=0;j<n;j++){
-                if(grid[i][j]!=0 && visit[i][j]==false){
-                    long long sum=0;
-                    visit[i][j]=true;
-                    dfs(grid,i,j,sum);
+                if(grid[i][j]!=0){
+                    long long sum=bfs(grid,i,j);
                     if(sum%k==0) ans++;
                 }
             }
