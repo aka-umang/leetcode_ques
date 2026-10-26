@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/aka-umang/leetcode_ques/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/aka-umang/leetcode_ques/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/aka-umang/leetcode_ques/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3742-maximum-path-score-in-a-grid](https://github.com/aka-umang/leetcode_ques/tree/master/3742-maximum-path-score-in-a-grid) |
 | [3886-sum-of-sortable-integers](https://github.com/aka-umang/leetcode_ques/tree/master/3886-sum-of-sortable-integers) |
 ## Binary Search
 |  |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1137-n-th-tribonacci-number](https://github.com/aka-umang/leetcode_ques/tree/master/1137-n-th-tribonacci-number) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/aka-umang/leetcode_ques/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/aka-umang/leetcode_ques/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
+| [3742-maximum-path-score-in-a-grid](https://github.com/aka-umang/leetcode_ques/tree/master/3742-maximum-path-score-in-a-grid) |
 ## Recursion
 |  |
 | ------- |
@@ -332,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/aka-umang/leetcode_ques/tree/master/0064-minimum-path-sum) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/aka-umang/leetcode_ques/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/aka-umang/leetcode_ques/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
+| [3742-maximum-path-score-in-a-grid](https://github.com/aka-umang/leetcode_ques/tree/master/3742-maximum-path-score-in-a-grid) |
 ## Monotonic Stack
 |  |
 | ------- |
