@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/aka-umang/leetcode_ques/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/aka-umang/leetcode_ques/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/aka-umang/leetcode_ques/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/aka-umang/leetcode_ques/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/aka-umang/leetcode_ques/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/aka-umang/leetcode_ques/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/aka-umang/leetcode_ques/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0968-binary-tree-cameras](https://github.com/aka-umang/leetcode_ques/tree/master/0968-binary-tree-cameras) |
 | [1137-n-th-tribonacci-number](https://github.com/aka-umang/leetcode_ques/tree/master/1137-n-th-tribonacci-number) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/aka-umang/leetcode_ques/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/aka-umang/leetcode_ques/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/aka-umang/leetcode_ques/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/aka-umang/leetcode_ques/tree/master/3742-maximum-path-score-in-a-grid) |
 ## Recursion
@@ -176,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/aka-umang/leetcode_ques/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/aka-umang/leetcode_ques/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/aka-umang/leetcode_ques/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/aka-umang/leetcode_ques/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Sorting
 |  |
 | ------- |
@@ -343,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/aka-umang/leetcode_ques/tree/master/0417-pacific-atlantic-water-flow) |
 | [0994-rotting-oranges](https://github.com/aka-umang/leetcode_ques/tree/master/0994-rotting-oranges) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/aka-umang/leetcode_ques/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/aka-umang/leetcode_ques/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/aka-umang/leetcode_ques/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/aka-umang/leetcode_ques/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/aka-umang/leetcode_ques/tree/master/3742-maximum-path-score-in-a-grid) |
