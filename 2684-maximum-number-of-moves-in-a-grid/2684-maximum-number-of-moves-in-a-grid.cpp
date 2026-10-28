@@ -1,31 +1,38 @@
 class Solution {
 public:
     int m,n;
-    
-    int solve(vector<vector<int>>& grid){
-        vector<vector<int>>dp(m,vector<int>(n));
+    vector<pair<int,int>> dir={{-1,1},{0,1},{1,1}};
 
-        for(int j=n-1;j>=0;j--){
-            for(int i=m-1;i>=0;i--){
-                int r= (j+1>=n || grid[i][j+1]<=grid[i][j])?-1:  dp[i][j+1];
-                int ru= (i-1<0 || j+1>=n || grid[i-1][j+1]<=grid[i][j])?-1: dp[i-1][j+1];
-                int rd= (i+1==m || j+1==n || grid[i+1][j+1]<=grid[i][j])?-1: dp[i+1][j+1];
+    bool isValid(int i, int j){
+        return (i>=0 && j>=0 && i<m && j<n);
+    }
 
-               dp[i][j]=1+max({r,ru,rd});
+    int solve(vector<vector<int>>& dp,vector<vector<int>>& grid, int i, int j){
+        int maxMove=0;
+        
+        if(dp[i][j]!=-1) return dp[i][j];
+
+        for(int d=0;d<3;d++){
+            int r=i+dir[d].first;
+            int c=j+dir[d].second;
+            if(isValid(r,c) && grid[i][j]<grid[r][c]){
+                int moves=solve(dp,grid,r,c);
+                maxMove=max(maxMove,1+moves);
             }
         }
 
-        int ans=0;
-        for(int i=0;i<m;i++){
-            ans=max(ans,dp[i][0]);
-        }
-        return ans;
+        return dp[i][j]=maxMove;
     }
 
-    int maxMoves(vector<vector<int>>& grid) {
+    int maxMoves(vector<vector<int>>& grid){
         m=grid.size();
         n=grid[0].size();
-    
-        return solve(grid);
+        int ans=0;
+        vector<vector<int>>dp(m,vector<int>(n,-1));
+
+        for(int i=0;i<m;i++){
+            ans=max(ans,solve(dp,grid,i,0));
+        }
+        return ans;
     }
 };
