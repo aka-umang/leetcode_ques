@@ -4,19 +4,19 @@ public:
     
     int solve(vector<vector<int>>&dp,vector<vector<int>>& triangle){
     
-        for(int j=0;j<n;j++){
-            dp[m-1][j]=triangle[m-1][j];
-        }
+        // for(int j=0;j<n;j++){
+        //     dp[m-1][j]=triangle[m-1][j];
+        // }
         
         for(int i=m-2;i>=0;i--){
             for(int j=triangle[i].size()-1;j>=0;j--){
-                int d=dp[i+1][j];
-                int dr=dp[i+1][j+1];
-                dp[i][j]= triangle[i][j]+min(d,dr);
+                int d=triangle[i+1][j];
+                int dr=triangle[i+1][j+1];
+                triangle[i][j]= triangle[i][j]+min(d,dr);
             }
         }
 
-       return dp[0][0];
+       return triangle[0][0];
     }
 
     int minimumTotal(vector<vector<int>>& triangle) {
