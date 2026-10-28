@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/aka-umang/leetcode_ques/tree/master/0735-asteroid-collision) |
 | [0907-sum-of-subarray-minimums](https://github.com/aka-umang/leetcode_ques/tree/master/0907-sum-of-subarray-minimums) |
 | [0918-maximum-sum-circular-subarray](https://github.com/aka-umang/leetcode_ques/tree/master/0918-maximum-sum-circular-subarray) |
+| [0931-minimum-falling-path-sum](https://github.com/aka-umang/leetcode_ques/tree/master/0931-minimum-falling-path-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/aka-umang/leetcode_ques/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0994-rotting-oranges](https://github.com/aka-umang/leetcode_ques/tree/master/0994-rotting-oranges) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/aka-umang/leetcode_ques/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/aka-umang/leetcode_ques/tree/master/0678-valid-parenthesis-string) |
 | [0907-sum-of-subarray-minimums](https://github.com/aka-umang/leetcode_ques/tree/master/0907-sum-of-subarray-minimums) |
 | [0918-maximum-sum-circular-subarray](https://github.com/aka-umang/leetcode_ques/tree/master/0918-maximum-sum-circular-subarray) |
+| [0931-minimum-falling-path-sum](https://github.com/aka-umang/leetcode_ques/tree/master/0931-minimum-falling-path-sum) |
 | [0968-binary-tree-cameras](https://github.com/aka-umang/leetcode_ques/tree/master/0968-binary-tree-cameras) |
 | [1137-n-th-tribonacci-number](https://github.com/aka-umang/leetcode_ques/tree/master/1137-n-th-tribonacci-number) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/aka-umang/leetcode_ques/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
@@ -348,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/aka-umang/leetcode_ques/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/aka-umang/leetcode_ques/tree/master/0064-minimum-path-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/aka-umang/leetcode_ques/tree/master/0417-pacific-atlantic-water-flow) |
+| [0931-minimum-falling-path-sum](https://github.com/aka-umang/leetcode_ques/tree/master/0931-minimum-falling-path-sum) |
 | [0994-rotting-oranges](https://github.com/aka-umang/leetcode_ques/tree/master/0994-rotting-oranges) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/aka-umang/leetcode_ques/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/aka-umang/leetcode_ques/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
