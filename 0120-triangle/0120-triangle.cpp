@@ -2,9 +2,8 @@ class Solution {
 public:
     int m,n;
     
-    int solve(vector<vector<int>>& triangle){
-        vector<vector<int>>dp(m,vector<int>(n,INT_MIN));
-
+    int solve(vector<vector<int>>&dp,vector<vector<int>>& triangle){
+    
         for(int j=0;j<n;j++){
             dp[m-1][j]=triangle[m-1][j];
         }
@@ -23,6 +22,13 @@ public:
     int minimumTotal(vector<vector<int>>& triangle) {
         m=triangle.size();
         n=triangle[m-1].size();
-        return solve(triangle);
+
+        vector<vector<int>>dp;
+
+        for(int s=1;s<=m;s++){
+            vector<int>temp(s,INT_MIN);
+            dp.push_back(temp);
+        }
+        return solve(dp,triangle);
     }
 };
