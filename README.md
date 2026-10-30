@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/aka-umang/leetcode_ques/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1146-snapshot-array](https://github.com/aka-umang/leetcode_ques/tree/master/1146-snapshot-array) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/aka-umang/leetcode_ques/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
+| [1463-cherry-pickup-ii](https://github.com/aka-umang/leetcode_ques/tree/master/1463-cherry-pickup-ii) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/aka-umang/leetcode_ques/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/aka-umang/leetcode_ques/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/aka-umang/leetcode_ques/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0931-minimum-falling-path-sum](https://github.com/aka-umang/leetcode_ques/tree/master/0931-minimum-falling-path-sum) |
 | [0968-binary-tree-cameras](https://github.com/aka-umang/leetcode_ques/tree/master/0968-binary-tree-cameras) |
 | [1137-n-th-tribonacci-number](https://github.com/aka-umang/leetcode_ques/tree/master/1137-n-th-tribonacci-number) |
+| [1463-cherry-pickup-ii](https://github.com/aka-umang/leetcode_ques/tree/master/1463-cherry-pickup-ii) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/aka-umang/leetcode_ques/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/aka-umang/leetcode_ques/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/aka-umang/leetcode_ques/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
@@ -356,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0931-minimum-falling-path-sum](https://github.com/aka-umang/leetcode_ques/tree/master/0931-minimum-falling-path-sum) |
 | [0994-rotting-oranges](https://github.com/aka-umang/leetcode_ques/tree/master/0994-rotting-oranges) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/aka-umang/leetcode_ques/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
+| [1463-cherry-pickup-ii](https://github.com/aka-umang/leetcode_ques/tree/master/1463-cherry-pickup-ii) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/aka-umang/leetcode_ques/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/aka-umang/leetcode_ques/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2684-maximum-number-of-moves-in-a-grid](https://github.com/aka-umang/leetcode_ques/tree/master/2684-maximum-number-of-moves-in-a-grid) |
