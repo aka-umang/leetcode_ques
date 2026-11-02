@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/aka-umang/leetcode_ques/tree/master/0120-triangle) |
 | [0213-house-robber-ii](https://github.com/aka-umang/leetcode_ques/tree/master/0213-house-robber-ii) |
 | [0542-01-matrix](https://github.com/aka-umang/leetcode_ques/tree/master/0542-01-matrix) |
+| [0552-student-attendance-record-ii](https://github.com/aka-umang/leetcode_ques/tree/master/0552-student-attendance-record-ii) |
 | [0639-decode-ways-ii](https://github.com/aka-umang/leetcode_ques/tree/master/0639-decode-ways-ii) |
 | [0678-valid-parenthesis-string](https://github.com/aka-umang/leetcode_ques/tree/master/0678-valid-parenthesis-string) |
 | [0907-sum-of-subarray-minimums](https://github.com/aka-umang/leetcode_ques/tree/master/0907-sum-of-subarray-minimums) |
