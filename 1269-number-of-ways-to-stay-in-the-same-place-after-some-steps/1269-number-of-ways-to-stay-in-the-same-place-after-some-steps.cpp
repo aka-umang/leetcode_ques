@@ -3,25 +3,25 @@ public:
     int N;
     int MOD=1e9+7;
 
-    long long solve(vector<vector<int>>&dp,int steps,int pos){
-        if(steps==0){
-            if(pos==0) return 1;
-            return 0;
+    long long solve(int steps,int x,int pos){
+        vector<vector<int>>dp(steps+1,vector<int>(x+1,0));
+        dp[0][0]=1;
+        
+        for(int step=1;step<=steps;step++){
+            for(int p=x-1;p>=0;p--){
+                int stay=   dp[step-1][p];
+                int right=  (p+1>x)?  0:  dp[step-1][p+1];
+                int left=   (p-1<0)?  0:  dp[step-1][p-1];
+
+                dp[step][p]=(0LL+left+right+stay)%MOD;
+            }
         }
-        if(pos<0 || pos==N) return 0;
-
-        if(dp[steps][pos]!=-1) return dp[steps][pos];
-
-        int stay=solve(dp,steps-1,pos);
-        int right=solve(dp,steps-1,pos+1);
-        int left=solve(dp,steps-1,pos-1);
-        return dp[steps][pos]=(0LL+left+right+stay)%MOD;
+        return dp[steps][0];
     }
 
     int numWays(int steps, int arrLen) {
         N=arrLen;
         int x=min(steps,N);
-        vector<vector<int>>dp(steps+1,vector<int>(x,-1));
-        return solve(dp,steps,0);
+        return solve(steps,x,0);
     }
 };
