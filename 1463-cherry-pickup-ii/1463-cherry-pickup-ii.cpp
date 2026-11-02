@@ -5,13 +5,16 @@ public:
 
     int solve(vector<vector<int>>& grid){
 
-        vector<vector<vector<int>>>dp(m,
-            vector<vector<int>>(n,
-                vector<int>(n,-1)
-            )
+
+        vector<vector<int>>next(n, //R+1th table
+            vector<int>(n,-1)
         );
 
         for(int r=m-1;r>=0;r--){
+            vector<vector<int>>curr(n, //Rth table
+                vector<int>(n,-1)
+            );
+
             for(int c1=n-1;c1>=0;c1--){
                 for(int c2=0;c2<=n-1;c2++){
 
@@ -25,15 +28,16 @@ public:
                             int i_=r+a;
                             int j_=c2+b;
                             if(i_==m || j_<0 || j_==n) continue;
-                            maxSum=max(maxSum,dp[i][j][j_] );
+                            maxSum=max(maxSum,next[j][j_] );
                         }
                     }
 
-                    dp[r][c1][c2] =maxSum + grid[r][c1] + (c1 == c2 ? 0 : grid[r][c2]);
+                    curr[c1][c2] =maxSum + grid[r][c1] + (c1 == c2 ? 0 : grid[r][c2]);
                 }
             }
+            swap(next,curr);
         }
-        return dp[0][0][n-1];
+        return next[0][n-1];
     }
 
     int cherryPickup(vector<vector<int>>& grid) {
