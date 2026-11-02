@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/aka-umang/leetcode_ques/tree/master/0239-sliding-window-maximum) |
 | [0303-range-sum-query-immutable](https://github.com/aka-umang/leetcode_ques/tree/master/0303-range-sum-query-immutable) |
 | [0417-pacific-atlantic-water-flow](https://github.com/aka-umang/leetcode_ques/tree/master/0417-pacific-atlantic-water-flow) |
+| [0542-01-matrix](https://github.com/aka-umang/leetcode_ques/tree/master/0542-01-matrix) |
 | [0735-asteroid-collision](https://github.com/aka-umang/leetcode_ques/tree/master/0735-asteroid-collision) |
 | [0907-sum-of-subarray-minimums](https://github.com/aka-umang/leetcode_ques/tree/master/0907-sum-of-subarray-minimums) |
 | [0918-maximum-sum-circular-subarray](https://github.com/aka-umang/leetcode_ques/tree/master/0918-maximum-sum-circular-subarray) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0091-decode-ways](https://github.com/aka-umang/leetcode_ques/tree/master/0091-decode-ways) |
 | [0120-triangle](https://github.com/aka-umang/leetcode_ques/tree/master/0120-triangle) |
 | [0213-house-robber-ii](https://github.com/aka-umang/leetcode_ques/tree/master/0213-house-robber-ii) |
+| [0542-01-matrix](https://github.com/aka-umang/leetcode_ques/tree/master/0542-01-matrix) |
 | [0639-decode-ways-ii](https://github.com/aka-umang/leetcode_ques/tree/master/0639-decode-ways-ii) |
 | [0678-valid-parenthesis-string](https://github.com/aka-umang/leetcode_ques/tree/master/0678-valid-parenthesis-string) |
 | [0907-sum-of-subarray-minimums](https://github.com/aka-umang/leetcode_ques/tree/master/0907-sum-of-subarray-minimums) |
@@ -304,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0301-remove-invalid-parentheses](https://github.com/aka-umang/leetcode_ques/tree/master/0301-remove-invalid-parentheses) |
 | [0404-sum-of-left-leaves](https://github.com/aka-umang/leetcode_ques/tree/master/0404-sum-of-left-leaves) |
 | [0417-pacific-atlantic-water-flow](https://github.com/aka-umang/leetcode_ques/tree/master/0417-pacific-atlantic-water-flow) |
+| [0542-01-matrix](https://github.com/aka-umang/leetcode_ques/tree/master/0542-01-matrix) |
 | [0841-keys-and-rooms](https://github.com/aka-umang/leetcode_ques/tree/master/0841-keys-and-rooms) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/aka-umang/leetcode_ques/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/aka-umang/leetcode_ques/tree/master/0993-cousins-in-binary-tree) |
@@ -355,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/aka-umang/leetcode_ques/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/aka-umang/leetcode_ques/tree/master/0064-minimum-path-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/aka-umang/leetcode_ques/tree/master/0417-pacific-atlantic-water-flow) |
+| [0542-01-matrix](https://github.com/aka-umang/leetcode_ques/tree/master/0542-01-matrix) |
 | [0931-minimum-falling-path-sum](https://github.com/aka-umang/leetcode_ques/tree/master/0931-minimum-falling-path-sum) |
 | [0994-rotting-oranges](https://github.com/aka-umang/leetcode_ques/tree/master/0994-rotting-oranges) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/aka-umang/leetcode_ques/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
