@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0968-binary-tree-cameras](https://github.com/aka-umang/leetcode_ques/tree/master/0968-binary-tree-cameras) |
 | [1137-n-th-tribonacci-number](https://github.com/aka-umang/leetcode_ques/tree/master/1137-n-th-tribonacci-number) |
 | [1269-number-of-ways-to-stay-in-the-same-place-after-some-steps](https://github.com/aka-umang/leetcode_ques/tree/master/1269-number-of-ways-to-stay-in-the-same-place-after-some-steps) |
+| [1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons](https://github.com/aka-umang/leetcode_ques/tree/master/1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons) |
 | [1463-cherry-pickup-ii](https://github.com/aka-umang/leetcode_ques/tree/master/1463-cherry-pickup-ii) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/aka-umang/leetcode_ques/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/aka-umang/leetcode_ques/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/aka-umang/leetcode_ques/tree/master/0303-range-sum-query-immutable) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/aka-umang/leetcode_ques/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons](https://github.com/aka-umang/leetcode_ques/tree/master/1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons) |
 ## Sliding Window
 |  |
 | ------- |
