@@ -13,24 +13,31 @@ public:
     }
 
 
-    int solve(vector<vector<int>> &dp, int n, int V){  
-        if(n==0) return 1;
+    int solve(int N){ 
+        vector<vector<int>>dp(N+1  ,vector<int>(N+2,-1));
 
-        if(dp[n][V]!=-1) return dp[n][V];
-
-        int ways=0;
-        for(int v=V; v<=n; v++){
-            int n_=n-powerOf[v];
-            if(n_<0) break;
-            ways=(ways+solve(dp,n_,v+1))%MOD;
+        for(int start=0;start<N+2;start++){
+            dp[0][start]=1;
         }
-        return dp[n][V]=ways;
+        
+        for(int n=1;n<=N;n++){
+            for(int V=N;V>=1;V--){
+
+                long long ways=0;
+                for(int v=V; v<=n; v++){
+                    long long n_=n-powerOf[v];
+                    if(n_<0) break;
+                    ways=(ways+dp[n_][v+1])%MOD;
+                }
+                dp[n][V]=ways;
+            }
+        }    
+        return dp[N][1];
     }
 
     int numberOfWays(int n, int x) {
         X=x;
         findPow(n);
-        vector<vector<int>>dp(n+1  ,vector<int>(n+1,-1));
-        return solve(dp,n,1);   
+        return solve(n);   
     }
 };
