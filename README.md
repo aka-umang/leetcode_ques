@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/aka-umang/leetcode_ques/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/aka-umang/leetcode_ques/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2684-maximum-number-of-moves-in-a-grid](https://github.com/aka-umang/leetcode_ques/tree/master/2684-maximum-number-of-moves-in-a-grid) |
+| [2787-ways-to-express-an-integer-as-sum-of-powers](https://github.com/aka-umang/leetcode_ques/tree/master/2787-ways-to-express-an-integer-as-sum-of-powers) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/aka-umang/leetcode_ques/tree/master/3742-maximum-path-score-in-a-grid) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/aka-umang/leetcode_ques/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Recursion
