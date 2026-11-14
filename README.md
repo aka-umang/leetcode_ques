@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1463-cherry-pickup-ii](https://github.com/aka-umang/leetcode_ques/tree/master/1463-cherry-pickup-ii) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/aka-umang/leetcode_ques/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/aka-umang/leetcode_ques/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [1981-minimize-the-difference-between-target-and-chosen-elements](https://github.com/aka-umang/leetcode_ques/tree/master/1981-minimize-the-difference-between-target-and-chosen-elements) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/aka-umang/leetcode_ques/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/aka-umang/leetcode_ques/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/aka-umang/leetcode_ques/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons](https://github.com/aka-umang/leetcode_ques/tree/master/1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons) |
 | [1463-cherry-pickup-ii](https://github.com/aka-umang/leetcode_ques/tree/master/1463-cherry-pickup-ii) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/aka-umang/leetcode_ques/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [1981-minimize-the-difference-between-target-and-chosen-elements](https://github.com/aka-umang/leetcode_ques/tree/master/1981-minimize-the-difference-between-target-and-chosen-elements) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/aka-umang/leetcode_ques/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/aka-umang/leetcode_ques/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2684-maximum-number-of-moves-in-a-grid](https://github.com/aka-umang/leetcode_ques/tree/master/2684-maximum-number-of-moves-in-a-grid) |
@@ -373,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1289-minimum-falling-path-sum-ii](https://github.com/aka-umang/leetcode_ques/tree/master/1289-minimum-falling-path-sum-ii) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/aka-umang/leetcode_ques/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1463-cherry-pickup-ii](https://github.com/aka-umang/leetcode_ques/tree/master/1463-cherry-pickup-ii) |
+| [1981-minimize-the-difference-between-target-and-chosen-elements](https://github.com/aka-umang/leetcode_ques/tree/master/1981-minimize-the-difference-between-target-and-chosen-elements) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/aka-umang/leetcode_ques/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/aka-umang/leetcode_ques/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2684-maximum-number-of-moves-in-a-grid](https://github.com/aka-umang/leetcode_ques/tree/master/2684-maximum-number-of-moves-in-a-grid) |
