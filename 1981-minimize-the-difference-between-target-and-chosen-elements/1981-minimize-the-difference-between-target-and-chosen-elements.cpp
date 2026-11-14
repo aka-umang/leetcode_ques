@@ -23,7 +23,7 @@ public:
         m=mat.size();
         n=mat[0].size();
         Target=target;
-        vector<vector<int>>dp(m+1,vector<int>(56001,-1));
+        vector<vector<int>>dp(m+1,vector<int>(4901,-1));
         return solve(dp,mat,0,0);
     }
 };
