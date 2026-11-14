@@ -3,24 +3,26 @@ public:
     int n;
 
     int solve(vector<vector<int>>& grid){
-        vector<vector<int>>dp(n+1,vector<int>(n+1,-1));
         
-        for(int i=0;i<n;i++)    dp[n][i]=0;
-
+        vector<int>next(n+1,0);
+        
         for(int r=n-1;r>=0;r--){
+            vector<int>curr(n+1,0);
+
             for(int skipCol=0; skipCol<=n;skipCol++){
 
                 int minSum=INT_MAX;
                 for(int j=0;j<n;j++){
                     if(j==skipCol) continue;
-                    int downSum= dp[r+1][j];
+                    int downSum= next[j];
                     minSum=min(minSum, grid[r][j]+downSum);
                 }
 
-                dp[r][skipCol]=minSum;
+                curr[skipCol]=minSum;
             }
+            swap(next,curr);
         }
-        return dp[0][n];
+        return next[n];
     }
 
     int minFallingPathSum(vector<vector<int>>& grid) {
