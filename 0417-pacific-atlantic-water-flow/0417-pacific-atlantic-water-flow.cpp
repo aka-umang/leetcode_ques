@@ -1,52 +1,48 @@
 class Solution {
 public:
-    int n;
-    int m;
-    vector<vector<int>> h;
-    vector<pair<int,int>>dir={{1,0},{0,1},{-1,0},{0,-1}};
+    int m,n;
+    vector<pair<int,int>> adj={{1,0},{-1,0},{0,1},{0,-1}};
+
+    void solve(vector<vector<int>>& heights, vector<vector<bool>> &water, int i, int j){
+        water[i][j]=true;
+        for(int d=0;d<4;d++){
+            int r=i+adj[d].first;
+            int c=j+adj[d].second;
+            if(r<0 || c<0 || r==m || c==n || water[r][c] || heights[i][j]>heights[r][c]) continue;
+            solve(heights,water,r,c);
+        }
+    }
 
     vector<vector<int>> pacificAtlantic(vector<vector<int>>& heights) {
-        //multi-source-DFS-typeQuestion
-        h=heights;
-        n=heights.size();
-        m=heights[0].size();
-        vector<vector<bool>> paci(n,vector<bool>(m,false));
-        vector<vector<bool>> atlan(n,vector<bool>(m,false));
+        m=heights.size();
+        n=heights[0].size();
 
-        for(int i=0;i<n;i++){
-            paci[i][0]=true;
-            dfs(i,0,paci);
+        vector<vector<int>>result;
 
-            atlan[i][m-1]=true;
-            dfs(i,m-1,atlan);
-        }
-        for(int j=1;j<m;j++) {
-            paci[0][j]=true;
-            dfs(0,j,paci);
-        }
-        for(int j=0;j<m-1;j++){
-            atlan[n-1][j]=true;
-            dfs(n-1,j,atlan);
-        }
+        vector<vector<bool>> paci(m,vector<bool>(n,false));
+        vector<vector<bool>> atlan(m,vector<bool>(n,false));
 
-        vector<vector<int>>res;
-        for(int i=0;i<n;i++){
-            for(int j=0;j<m;j++){
-                if(paci[i][j] && atlan[i][j]) res.push_back({i,j});
+        for(int i=0;i<m;i++){
+            for(int j=0;j<n;j++){
+                if(i==0   || j==0){
+                    paci[i][j]=true;
+                    solve(heights,paci,i,j);
+                }
+                if(i==m-1 || j==n-1){
+                    atlan[i][j]=true;
+                    solve(heights,atlan,i,j);
+                }
             }
         }
-        return res;
-    }
-    
-    void dfs(int i,int j,vector<vector<bool>>&visited){  
-        for(int d=0;d<4;d++){
-            int r=i+dir[d].first;
-            int c=j+dir[d].second;
-            if(r<0 || c<0 ||r>=n ||c>=m) continue;
-            if(visited[r][c]==true) continue;
-            if(h[i][j]>h[r][c]) continue;
-            visited[r][c]=true;
-            dfs(r,c,visited);
+
+        for(int i=0;i<m;i++){
+            for(int j=0;j<n;j++){
+                if(paci[i][j] && atlan[i][j]){
+                    result.push_back({i,j});
+                }
+            }
         }
+
+        return result;
     }
 };
