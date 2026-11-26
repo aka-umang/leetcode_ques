@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1981-minimize-the-difference-between-target-and-chosen-elements](https://github.com/aka-umang/leetcode_ques/tree/master/1981-minimize-the-difference-between-target-and-chosen-elements) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/aka-umang/leetcode_ques/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/aka-umang/leetcode_ques/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+| [2304-minimum-path-cost-in-a-grid](https://github.com/aka-umang/leetcode_ques/tree/master/2304-minimum-path-cost-in-a-grid) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/aka-umang/leetcode_ques/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/aka-umang/leetcode_ques/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/aka-umang/leetcode_ques/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1937-maximum-number-of-points-with-cost](https://github.com/aka-umang/leetcode_ques/tree/master/1937-maximum-number-of-points-with-cost) |
 | [1981-minimize-the-difference-between-target-and-chosen-elements](https://github.com/aka-umang/leetcode_ques/tree/master/1981-minimize-the-difference-between-target-and-chosen-elements) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/aka-umang/leetcode_ques/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+| [2304-minimum-path-cost-in-a-grid](https://github.com/aka-umang/leetcode_ques/tree/master/2304-minimum-path-cost-in-a-grid) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/aka-umang/leetcode_ques/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2684-maximum-number-of-moves-in-a-grid](https://github.com/aka-umang/leetcode_ques/tree/master/2684-maximum-number-of-moves-in-a-grid) |
 | [2787-ways-to-express-an-integer-as-sum-of-powers](https://github.com/aka-umang/leetcode_ques/tree/master/2787-ways-to-express-an-integer-as-sum-of-powers) |
@@ -385,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1937-maximum-number-of-points-with-cost](https://github.com/aka-umang/leetcode_ques/tree/master/1937-maximum-number-of-points-with-cost) |
 | [1981-minimize-the-difference-between-target-and-chosen-elements](https://github.com/aka-umang/leetcode_ques/tree/master/1981-minimize-the-difference-between-target-and-chosen-elements) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/aka-umang/leetcode_ques/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+| [2304-minimum-path-cost-in-a-grid](https://github.com/aka-umang/leetcode_ques/tree/master/2304-minimum-path-cost-in-a-grid) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/aka-umang/leetcode_ques/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2684-maximum-number-of-moves-in-a-grid](https://github.com/aka-umang/leetcode_ques/tree/master/2684-maximum-number-of-moves-in-a-grid) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/aka-umang/leetcode_ques/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
