@@ -2,28 +2,37 @@ class Solution {
 public:
     int m,n;
     
-    int solve(vector<vector<int>> &dp,vector<vector<int>>& grid, int r, int p,  vector<vector<int>>& moveCost){
-        if(r==m) return 0;
-        if(dp[r][p]!=-1) return dp[r][p];
+    int solve(vector<vector<int>>& grid, vector<vector<int>>& moveCost){
+        vector<vector<int>> dp(m+1,vector<int>(n+1,-1));
+        for(int i=0;i<=n;i++)   dp[m][i]=0;
 
-        int mini=INT_MAX;
-        for(int j=0;j<n;j++){
-            int d=solve(dp,grid,r+1,j,moveCost);
-            int cost=0;
-            if(p!=n){
-                int temp=grid[r-1][p];
-                cost+=moveCost[temp][j];
+        for(int r=m-1;r>=0;r--){
+            for(int p=0;p<=n;p++){
+
+                int mini=INT_MAX;
+                for(int j=0;j<n;j++){
+
+                    int d=dp[r+1][j];
+                    int cost=0;
+                    if(p!=n && r!=0){
+                        int temp=grid[r-1][p];
+                        cost+=moveCost[temp][j];
+                    }
+                    mini=min(mini,grid[r][j]+d+cost);
+
+                }
+                dp[r][p] =mini;
             }
-            mini=min(mini,grid[r][j]+d+cost);
         }
-        return dp[r][p] =mini;
+
+        return dp[0][n];
     }
 
     int minPathCost(vector<vector<int>>& grid, vector<vector<int>>& moveCost) {
         m=grid.size();
         n=grid[0].size();
         
-        vector<vector<int>> dp(m,vector<int>(n+1,-1));
-        return solve(dp,grid,0,n,moveCost);
+        
+        return solve(grid,moveCost);
     }
 };
