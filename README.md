@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/aka-umang/leetcode_ques/tree/master/0130-surrounded-regions) |
 | [0213-house-robber-ii](https://github.com/aka-umang/leetcode_ques/tree/master/0213-house-robber-ii) |
 | [0239-sliding-window-maximum](https://github.com/aka-umang/leetcode_ques/tree/master/0239-sliding-window-maximum) |
+| [0268-missing-number](https://github.com/aka-umang/leetcode_ques/tree/master/0268-missing-number) |
 | [0303-range-sum-query-immutable](https://github.com/aka-umang/leetcode_ques/tree/master/0303-range-sum-query-immutable) |
 | [0417-pacific-atlantic-water-flow](https://github.com/aka-umang/leetcode_ques/tree/master/0417-pacific-atlantic-water-flow) |
 | [0542-01-matrix](https://github.com/aka-umang/leetcode_ques/tree/master/0542-01-matrix) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/aka-umang/leetcode_ques/tree/master/0004-median-of-two-sorted-arrays) |
 | [0222-count-complete-tree-nodes](https://github.com/aka-umang/leetcode_ques/tree/master/0222-count-complete-tree-nodes) |
+| [0268-missing-number](https://github.com/aka-umang/leetcode_ques/tree/master/0268-missing-number) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/aka-umang/leetcode_ques/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1146-snapshot-array](https://github.com/aka-umang/leetcode_ques/tree/master/1146-snapshot-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/aka-umang/leetcode_ques/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/aka-umang/leetcode_ques/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/aka-umang/leetcode_ques/tree/master/0049-group-anagrams) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/aka-umang/leetcode_ques/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0268-missing-number](https://github.com/aka-umang/leetcode_ques/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/aka-umang/leetcode_ques/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/aka-umang/leetcode_ques/tree/master/0383-ransom-note) |
 | [0652-find-duplicate-subtrees](https://github.com/aka-umang/leetcode_ques/tree/master/0652-find-duplicate-subtrees) |
@@ -213,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/aka-umang/leetcode_ques/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/aka-umang/leetcode_ques/tree/master/0056-merge-intervals) |
+| [0268-missing-number](https://github.com/aka-umang/leetcode_ques/tree/master/0268-missing-number) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/aka-umang/leetcode_ques/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/aka-umang/leetcode_ques/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/aka-umang/leetcode_ques/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -298,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/aka-umang/leetcode_ques/tree/master/0062-unique-paths) |
+| [0268-missing-number](https://github.com/aka-umang/leetcode_ques/tree/master/0268-missing-number) |
 | [1137-n-th-tribonacci-number](https://github.com/aka-umang/leetcode_ques/tree/master/1137-n-th-tribonacci-number) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/aka-umang/leetcode_ques/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/aka-umang/leetcode_ques/tree/master/3723-maximize-sum-of-squares-of-digits) |
@@ -350,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/aka-umang/leetcode_ques/tree/master/0222-count-complete-tree-nodes) |
+| [0268-missing-number](https://github.com/aka-umang/leetcode_ques/tree/master/0268-missing-number) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/aka-umang/leetcode_ques/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/aka-umang/leetcode_ques/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Heap (Priority Queue)
