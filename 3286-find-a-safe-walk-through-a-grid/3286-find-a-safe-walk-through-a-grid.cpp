@@ -19,13 +19,7 @@ public:
             int c=j+dir[d].second;
             if(r<0||c<0||r>=m||c>=n || grid[r][c]==-1) continue;
             
-            if(grid[i][j]==1){
-                if(health>1 && solve(dp,grid,r,c,health-1)) return dp[i][j][health]=true; 
-            }
-            else{
-                if(solve(dp,grid,r,c,health)) return dp[i][j][health]=true; 
-            }
-            
+           if(solve(dp,grid,r,c,health)) return true;
         }
 
         grid[i][j]=og;
