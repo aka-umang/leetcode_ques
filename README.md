@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2751-robot-collisions](https://github.com/aka-umang/leetcode_ques/tree/master/2751-robot-collisions) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/aka-umang/leetcode_ques/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/aka-umang/leetcode_ques/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/aka-umang/leetcode_ques/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/aka-umang/leetcode_ques/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/aka-umang/leetcode_ques/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/aka-umang/leetcode_ques/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -336,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0993-cousins-in-binary-tree](https://github.com/aka-umang/leetcode_ques/tree/master/0993-cousins-in-binary-tree) |
 | [0994-rotting-oranges](https://github.com/aka-umang/leetcode_ques/tree/master/0994-rotting-oranges) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/aka-umang/leetcode_ques/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/aka-umang/leetcode_ques/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/aka-umang/leetcode_ques/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Greedy
 |  |
@@ -363,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/aka-umang/leetcode_ques/tree/master/0239-sliding-window-maximum) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/aka-umang/leetcode_ques/tree/master/2333-minimum-sum-of-squared-difference) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/aka-umang/leetcode_ques/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Enumeration
 |  |
 | ------- |
@@ -396,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2304-minimum-path-cost-in-a-grid](https://github.com/aka-umang/leetcode_ques/tree/master/2304-minimum-path-cost-in-a-grid) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/aka-umang/leetcode_ques/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2684-maximum-number-of-moves-in-a-grid](https://github.com/aka-umang/leetcode_ques/tree/master/2684-maximum-number-of-moves-in-a-grid) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/aka-umang/leetcode_ques/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/aka-umang/leetcode_ques/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/aka-umang/leetcode_ques/tree/master/3742-maximum-path-score-in-a-grid) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/aka-umang/leetcode_ques/tree/master/3882-minimum-xor-path-in-a-grid) |
@@ -434,4 +438,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0841-keys-and-rooms](https://github.com/aka-umang/leetcode_ques/tree/master/0841-keys-and-rooms) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/aka-umang/leetcode_ques/tree/master/3286-find-a-safe-walk-through-a-grid) |
+## Shortest Path
+|  |
+| ------- |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/aka-umang/leetcode_ques/tree/master/3286-find-a-safe-walk-through-a-grid) |
 <!---LeetCode Topics End-->
